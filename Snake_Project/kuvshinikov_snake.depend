@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1719961070 source:c:\andrei personal\kuvshinikov_snake\line.cpp
+	"line.h"
+
+1715712160 c:\andrei personal\kuvshinikov_snake\line.h
+	<cmath>
+	"SDL_Plotter.h"
+
+1715711689 c:\andrei personal\kuvshinikov_snake\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+	<queue>
+
+1715711689 source:c:\andrei personal\kuvshinikov_snake\sdl_plotter.cpp
+	"SDL_Plotter.h"
+
+1715738078 source:c:\andrei personal\kuvshinikov_snake\snake.cpp
+	"snake.h"
+
+1715991358 source:c:\andrei personal\kuvshinikov_snake\square.cpp
+	"square.h"
+
+1716425230 source:c:\andrei personal\kuvshinikov_snake\main.cpp
+	<iostream>
+	<ctime>
+	<vector>
+	<string>
+	<fstream>
+	"grid.h"
+	"square.h"
+	"SDL_Plotter.h"
+
+1715873049 c:\andrei personal\kuvshinikov_snake\grid.h
+	"SDL_Plotter.h"
+	"line.h"
+
+1715728454 source:c:\andrei personal\kuvshinikov_snake\grid.cpp
+	"grid.h"
+
+1715991350 c:\andrei personal\kuvshinikov_snake\square.h
+	"SDL_Plotter.h"
+	"grid.h"
+
+1715737388 c:\andrei personal\kuvshinikov_snake\snake.h
+	"square.h"
+
