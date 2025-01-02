@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1731533794 source:c:\users\jack fontenot\documents\github\grouprojfall24\1440groupproj\sdl_plotter.cpp
+	"SDL_Plotter.h"
+
+1731967329 c:\users\jack fontenot\documents\github\grouprojfall24\1440groupproj\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+	<queue>
+
+1731966753 source:c:\users\jack fontenot\documents\github\grouprojfall24\1440groupproj\main.cpp
+	<iostream>
+	"SDL_Plotter.h"
+
+1732076885 source:c:\users\mason crippen\onedrive\documents\cs1440\grouprojfall24\1440groupproj\main.cpp
+	<iostream>
+	"SDL_Plotter.h"
+	"rules.h"
+
+1731969510 c:\users\mason crippen\onedrive\documents\cs1440\grouprojfall24\1440groupproj\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+	<queue>
+
+1732076791 c:\users\mason crippen\onedrive\documents\cs1440\grouprojfall24\1440groupproj\rules.h
+
+1731969510 source:c:\users\mason crippen\onedrive\documents\cs1440\grouprojfall24\1440groupproj\sdl_plotter.cpp
+	"SDL_Plotter.h"
+
